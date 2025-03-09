@@ -1,0 +1,24 @@
+Bought ab's Book name :Sherlock Holmes
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :Harry Potter
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Exorcist
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Lord of the Files
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Lord of the Files
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Lord of the Files
+Bought ab's Quantity  :5
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Godfather
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Scarlet Letter
+Bought ab's Quantity  :2
+Bought ab's Price     :100 Taka
